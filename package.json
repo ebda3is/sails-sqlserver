@@ -59,6 +59,6 @@
       "queryable",
       "associations"
     ],
-    "waterlineVersion": "~0.10.0"
+    "waterlineVersion": "~1.0.0"
   }
 }
